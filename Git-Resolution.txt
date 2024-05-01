@@ -8,4 +8,3 @@ Here are some common resolutions related to using Git:
 - Contribute to Open Source: Set a goal to contribute to open-source projects by making pull requests, providing feedback, or helping fix bugs.
 - Document Git Workflows: Resolve to document the Git workflows used in the project to facilitate understanding and team collaboration.
 - Stay Up-to-date: Commit to staying up-to-date with the Git version used to get the latest features and bug fixes.
-- Seek Help and Learning: Commit to continuously learning and improving Git skills by leveraging online resources, books, and courses.
