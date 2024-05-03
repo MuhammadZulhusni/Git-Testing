@@ -2,6 +2,7 @@ CONTENT
 - JS
   * ES6
   * Framework JS
-- Data structure
 - PHP
 - LARAVEL
+- Vue
+- React.js
