@@ -1,4 +1,6 @@
 CONTENT
 - JS
+  * ES6
+  * Framework JS
 - PHP
 - LARAVEL
