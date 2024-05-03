@@ -1,7 +1,8 @@
 CONTENT
 - JS
   * ES6
-  * Framework JS
+  * Framework JavaScript
+    ^ Angular
 - Data structure
 - PHP
 - LARAVEL
